@@ -1,0 +1,8 @@
+{
+    "n_estimators": 5000,
+    "min_samples_split": 68,
+    "min_samples_leaf": 36,
+    "max_leaf_nodes": 90,
+    "max_features": "sqrt",
+    "max_depth": 930
+}
